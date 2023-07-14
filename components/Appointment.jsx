@@ -2,7 +2,7 @@
 const Appointment = () => {
  
     return (
-        <section >
+        <section className=" overflow-hidden">
             <div className="w-96 h-fit text-center bg-green p-12 sm:absolute right-0 sm:right-56 z-30 tp">
             <h1 className="font-satoshi font-bold text-white text-3xl">Schedule an <br /> Appointment</h1>
             <p className="text-white font-md mt-4">Here, let visitors know what will happen when they complete your form.</p>
